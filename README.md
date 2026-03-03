@@ -7,7 +7,7 @@ A simple Laravel application for managing a library's book collection and borrow
 - **Roma, Sean Justin**
 - **Labrador, Mariene**
 - **Garcia, Sophia Christi**
-- **Bermejor, Kate Nicole**
+- **Bermejo, Kate Nicole**
 - **Andura, Carla**
 
 ## Features
